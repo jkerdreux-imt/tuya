@@ -4,3 +4,4 @@ dist/
 tuyaface/__pycache__
 tuyaface.egg-info/
 .vscode
+tuyaface/.mypy_cache/
